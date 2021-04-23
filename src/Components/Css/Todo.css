@@ -1,0 +1,23 @@
+ul{
+    width: 100%;
+}
+li{
+    padding: 10%;
+    width: 100%;
+    font-weight: bold
+}
+.buttons{
+    display: inline;
+    position: absolute;
+    right: 5%;
+    top: 4px;
+}
+.buttons button{
+    margin-right: 5px;    
+
+}
+@media(max-width:800px){
+    .add{
+        margin-top: 2%;
+    }
+}
